@@ -1,7 +1,7 @@
-name: component-b
-title: Component B
-version: 2.5
-prerelease: -beta.1
+name: component-d
+title: Component D
+version: 1.56
+prerelease: nada
 nav:
 - modules/ROOT/nav.adoc
 - modules/module-one/nav.adoc
